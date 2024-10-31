@@ -1,0 +1,19 @@
+.video-guide {
+    box-shadow: inset 1px 2px 5px 1px rgba(0,0,0,.15);
+    padding: 5px;
+    width: 555px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    background: #fffcfc78;
+}
+.video-guide i {
+  display: block;
+  width: 35px;
+  height: 35px;
+  background: url('../image/unit_video_guide.png');
+  margin-right: 7px;
+}
+.video-guide a{
+  text-decoration: underline;
+}
